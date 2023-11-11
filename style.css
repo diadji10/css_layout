@@ -197,7 +197,6 @@ select{
 .line1 span{
     flex: 1;
     height: 100%;
-    border: 1px solid black;
     margin-left: 5px;
     margin-right: 5px;
 }
@@ -209,14 +208,12 @@ select{
 .line2 span{
     flex: 1;
     height: 100%;
-    border: 1px solid black;
     margin-left: 5px;
     margin-right: 5px;
 }
 .line3{
     flex: 0.8;
     width: 25%;
-    border: 1px solid black;
     margin-top: 5px;
 }
 .line3 img{
